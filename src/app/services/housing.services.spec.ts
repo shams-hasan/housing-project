@@ -49,13 +49,11 @@ describe('HousingService', () => {
         const idToFind = 2;
         const result = await service.getHousingLocationById(idToFind);
     
-        // Assert
         expect(result).toBeDefined();
         expect(result?.id).toBe(idToFind);
       });
     
       it('should return undefined for non-existing ID when houses are already loaded', async () => {
-        // Call the getHousingLocationById method with a non-existing ID
         const idToFind = 999;
         const result = await service.getHousingLocationById(idToFind);
     
