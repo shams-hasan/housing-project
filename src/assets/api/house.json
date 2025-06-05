@@ -6,8 +6,8 @@
         "state": "IL",
         "photo": "/assets/images/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
         "availableUnits": 4,
-        "wifi": true,
-        "laundry": true
+        "wifi": "yes",
+        "laundry": "yes"
     },
     {
         "id": 1,
@@ -16,8 +16,8 @@
         "state": "CA",
         "photo": "/assets/images/brandon-griggs-wR11KBaB86U-unsplash.jpg",
         "availableUnits": 0,
-        "wifi": false,
-        "laundry": true
+        "wifi": "no",
+        "laundry": "yes"
     },
     {
         "id": 2,
@@ -26,8 +26,8 @@
         "state": "AK",
         "photo": "/assets/images/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
         "availableUnits": 1,
-        "wifi": false,
-        "laundry": false
+        "wifi": "no",
+        "laundry": "yes"
     },
     {
         "id": 3,
@@ -36,8 +36,8 @@
         "state": "IL",
         "photo": "/assets/images/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
         "availableUnits": 1,
-        "wifi": true,
-        "laundry": false
+        "wifi": "yes",
+        "laundry": "no"
     },
     {
         "id": 4,
@@ -46,8 +46,8 @@
         "state": "IN",
         "photo": "/assets/images/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
         "availableUnits": 1,
-        "wifi": true,
-        "laundry": false
+        "wifi": "yes",
+        "laundry": "no"
     },
     {
         "id": 5,
@@ -56,8 +56,8 @@
         "state": "CA",
         "photo": "/assets/images/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
         "availableUnits": 2,
-        "wifi": true,
-        "laundry": true
+        "wifi": "yes",
+        "laundry": "yes"
     },
     {
         "id": 6,
@@ -66,8 +66,8 @@
         "state": "CA",
         "photo": "/assets/images/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
         "availableUnits": 5,
-        "wifi": true,
-        "laundry": true
+        "wifi": "yes",
+        "laundry": "yes"
     },
     {
         "id": 7,
@@ -76,8 +76,8 @@
         "state": "CA",
         "photo": "/assets/images/r-architecture-GGupkreKwxA-unsplash.jpg",
         "availableUnits": 2,
-        "wifi": true,
-        "laundry": true
+        "wifi": "yes",
+        "laundry": "yes"
     },
     {
         "id": 8,
@@ -86,8 +86,8 @@
         "state": "CA",
         "photo": "/assets/images/saru-robert-9rP3mxf8qWI-unsplash.jpg",
         "availableUnits": 10,
-        "wifi": false,
-        "laundry": false
+        "wifi": "no",
+        "laundry": "no"
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "state": "OR",
         "photo": "/assets/images/webaliser-_TPTXZd9mOo-unsplash.jpg",
         "availableUnits": 6,
-        "wifi": true,
-        "laundry": true
+        "wifi": "yes",
+        "laundry": "yes"
     }
 ]
